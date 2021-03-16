@@ -1,11 +1,10 @@
 
 ## Above Ground Biomass Estimation: implementation of a Sentinel-2 based exploratory workflow
 
-Simple overview of use/purpose.
-
-## Description
 This repository contains the supplementary material required to reproduce the findings of a Sentinel-2 based exploratory workflow for the estimation of Above
 Ground Biomass (AGB). 
+
+## Description
 
 In the last decades, remote sensing-based studies on AGB have been widely investigated alongside with a variety of sensors, features and Machine Learning (ML) algorithms. Up-to-date and reliable mapping of such measures have been increasingly required by international commitments under the climate convention as well as by sustainable forest management practices. 
 
