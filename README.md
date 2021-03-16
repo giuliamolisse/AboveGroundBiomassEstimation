@@ -22,7 +22,7 @@ The proposed approach consists of 5 major steps:
 
 ## Manual for reproducibility
 1. Clone this repository.
-2. Add `dataset.shp` into dataset (including `.dbf`, `.fix`, `.prj`, `.qix`, `.shp`, and `.shx` files).
+2. Add `dataset.shp` file into the `dataset` folder (including `.dbf`, `.fix`, `.prj`, `.qix`, `.shp`, and `.shx` files).
 3. Open this repository on the notebook.
 4. RUN `main.ipynb` one cell at the time by following the instructions within the file.
 
