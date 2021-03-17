@@ -19,6 +19,7 @@ The proposed approach consists of 5 major steps:
 - Python 3
 - Jupyter Notebook
 - ArcGIS Pro (2.x) or QGIS (3.x)
+- SNAP
 
 ## Manual for reproducibility
 1. Clone this repository.
